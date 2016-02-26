@@ -1,0 +1,16 @@
+To-Do:
+[X] Create main menu
+[X] Implement main menu
+[X] Create help screen
+[X] Implement help screen
+[X] Keep track of score & display
+[X] Create Game over screen
+[X] Implement game over screen
+[X] Create Pause Screen
+[X] Implement Pause Screen
+[ ] Bullet projectiles:
+	- Instantiate bullets from police position
+	- Detect collisions between entities and projectiles
+	- Deal damage to shield, then to health
+
+Bugs:
